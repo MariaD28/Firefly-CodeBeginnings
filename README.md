@@ -6,16 +6,16 @@ FEATURES:
 Displays information about SavetheFirefliesToday.org, a non-profit organization dedicated to protecting fireflies.
 2. Learn Page:
 Features 3 informative cards:
-> A Beetle's Life – Basic facts about the life cycle of fireflies.
-> Threats – Information on what threatens fireflies in the wild.
-> Saving Them – Ways to help protect firefly populations.
+> A BEETLE'S LIFE – Basic facts about the life cycle of fireflies.
+> THREATS – Information on what threatens fireflies in the wild.
+> SAVING THEM – Ways to help protect firefly populations.
 Note: The cards are not clickable.
 3. Join Page:
 Allows firefly enthusiasts to get involved by logging in basic information.
 - Users can choose ways to contribute:
-> Donate
-> Join a Field Ocular
-> Become a Research Contributor
+> DONATE,
+> JOIN A FIELD OCULAR,
+> BECOME A RESEARCH CONTRIBUTOR
 - Select a preferred contact method (Email, Phone, WhatsApp) using radio buttons.
 - Option to subscribe to the weekly newspaper or map updates on firefly population movements.
 4. Known Issues:
