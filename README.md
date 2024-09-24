@@ -6,10 +6,10 @@ FEATURES:
 Displays information about SavetheFirefliesToday.org, a non-profit organization dedicated to protecting fireflies.
 2. Learn Page:
 Features 3 informative cards:
-> A BEETLE'S LIFE – Basic facts about the life cycle of fireflies.
-> THREATS – Information on what threatens fireflies in the wild.
+> A BEETLE'S LIFE – Basic facts about the life cycle of fireflies,
+> THREATS – Information on what threatens fireflies in the wild,
 > SAVING THEM – Ways to help protect firefly populations.
-Note: The cards are not clickable.
+* Note: The cards are not clickable.
 3. Join Page:
 Allows firefly enthusiasts to get involved by logging in basic information.
 - Users can choose ways to contribute:
