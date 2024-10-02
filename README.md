@@ -1,5 +1,5 @@
 # Firefly-CodeBeginnings
-Firefly-CodeBeginnings is my first web development project, designed to promote the awareness and protection of fireflies, in collaboration with the SavetheFirefliesToday.org initiative. This project showcases basic web design and coding skills, with a focus on nature conservation.
+Firefly-CodeBeginnings is my first school web development project, designed to promote the awareness and protection of fireflies, in collaboration with the SavetheFirefliesToday.org initiative. This project showcases basic web design and coding skills, with a focus on nature conservation.
 
 > FEATURES
 
