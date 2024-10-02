@@ -16,7 +16,7 @@ THREATS – Information on what threatens fireflies in the wild,
 SAVING THEM – Ways to help protect firefly populations.
 
 * Note: The cards are not clickable.
-* 
+  
 
 Join Page:
 
